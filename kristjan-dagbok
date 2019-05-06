@@ -1,2 +1,7 @@
 2.4.2019 Started work on Lokaverkefni
-9.4.2019 lagaði network bilun
+9.4.2019 lagaði network bilun eða ekki
+30.4.2019 gafst upp á 18.10 og switchaði yfir til 16.04
+2.5.2019 setti up static ip, FQDN,
+5.5.2019 elti þennan guide https://www.howtoforge.com/tutorial/perfect-server-ubuntu-16.04-with-apache-php-myqsl-pureftpd-bind-postfix-doveot-and-ispconfig/2/
+og setti up dhcp
+6.5.2019 setti up quotacheck addaði userum og groupum 
