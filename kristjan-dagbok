@@ -5,3 +5,5 @@
 5.5.2019 elti þennan guide https://www.howtoforge.com/tutorial/perfect-server-ubuntu-16.04-with-apache-php-myqsl-pureftpd-bind-postfix-doveot-and-ispconfig/2/
 og setti up dhcp
 6.5.2019 setti up quotacheck addaði userum og groupum 
+7.5.2019 setti up dns
+8.5.2019 setti up apache2 web server og reyndi med samba og ssh
